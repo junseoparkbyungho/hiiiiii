@@ -1,3 +1,9 @@
 body {
     background-color: rgb(227, 255, 189);
   }
+h1{
+    position: adsollute;
+    left: 50%
+    top: 50%
+        transform: translate (-50%, -50%)
+}
